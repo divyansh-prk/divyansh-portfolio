@@ -1,6 +1,7 @@
 .navbar{
     display: flex;
-    background:#AAD7D ;
+/*     background:#AAD7D; */
+    background:#6DA4AA;
     color: white;9
     height: 100px;
     border-bottom-left-radius: 40px;
