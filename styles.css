@@ -1,7 +1,7 @@
 .navbar{
     display: flex;
-    background:#614BC3 ;
-    color: white;
+    background:#AAD7D ;
+    color: white;9
     height: 100px;
     border-bottom-left-radius: 40px;
     
@@ -82,7 +82,7 @@ span{
 footer{
     
     height: 200px;
-    background: #614BC3;
+    background: #AAD7D;
     color: white;
     text-align: center;
     border-top-right-radius: 30px;
@@ -92,7 +92,7 @@ footer{
     bottom: 0;
 }
 .container{
-    background-color: #614BC3;
+    background-color: #AAD7D;
     width: 700px;
     margin-left: auto;
     margin-right: auto;
